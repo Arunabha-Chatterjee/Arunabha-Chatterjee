@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Arunabha-Chatterjee.
-- 👀 I’m interested in programming.
-- 🌱 I’m currently pursuing B-Tech in Computer Science.
+- 👀 Interested in programming.
+- 🌱 Currently pursuing B-Tech in Computer Science.
 
 <!---
 Arunabha-Chatterjee/Arunabha-Chatterjee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
